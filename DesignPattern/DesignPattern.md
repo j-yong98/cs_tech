@@ -12,9 +12,9 @@
   - 생성 - 객체 생성과 관련된 패턴
     - 추상 팩토리
     - 빌더
-    - 팩토리 메서드 : [Factory](Factory.md)
+    - [팩토리 메소드](Factory.md)
     - 프로토타입
-    - 싱글톤 : [Singleton](Singleton.md)
+    - [싱글톤](Singleton.md)
   - 구조 - 클래스나 객체를 조합해 더 큰 구조를 만드는 패턴
     - 어댑터
     - 브리지
@@ -22,24 +22,24 @@
     - 데코레이터
     - 퍼사드
     - 플라이웨이트
-    - 프록시 : [Proxy](ProxyPattern.md)
+    - [프록시](ProxyPattern.md)
   - 행위 - 객체나 클래스 사이 알고리즘이나 책임 분배에 관련된 패턴
-    - 옵저버 : [Observer](ObserverPattern.md)
+    - [옵저버](ObserverPattern.md)
     - 책임 연쇄
     - 커맨드
     - 인터프리터
-    - 이터레이터 : [Iterator](IteratorPattern.md)
+    - [이터레이터](IteratorPattern.md)
     - 미디에이터
     - 메멘토
     - 상태
-    - 전략 : [Strategy](StrategyPattern.md)
-    - 템플릿
+    - [전략](StrategyPattern.md)
+    - [템플릿 메소드](TemplateMethod.md)
     - 방문자
 ### 1.2.2 MVC 패턴
-  - MVC 패턴 : [MVC 패턴](MVCPattern.md)
+  - [MVC 패턴](MVCPattern.md)
 
 ### 1.2.3 MVP 패턴
-  - MVP 패턴 : [MVP 패턴](MVPPattern.md)
+  - [MVP 패턴](MVPPattern.md)
 
 ### 1.2.4 MVVM 패턴
-  - MVVM 패턴 : [MVVM 패턴](MVVMPattern.md)
+  - [MVVM 패턴](MVVMPattern.md)
